@@ -15,7 +15,7 @@ Both types are implemented with a workaround using "ext_cond signals" with the t
 
 utm 0.11.x has full support for ADT objects using ASCORE cuts. Using external signals is just a workaround Herbert implemented for the first evaluation tests (it is still supported though but will be removed in future). However topological trigger seeds are only supported using the external signals workaround, until we add full support into utm with future releases. 
 
-Documentation of utm 0_11.x can be found [here](https://globaltrigger.web.cern.ch/globaltrigger/release/utm/latest_doc/html/releaseNotes/v0_11_0.html)
+Documentation of utm 0.11.x can be found [here](https://globaltrigger.web.cern.ch/globaltrigger/release/utm/latest_doc/html/releaseNotes/v0_11_0.html)
 
 
 currently one NN per ascore is implemented in the firmware. There is no difference in using utm's ADT.
