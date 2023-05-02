@@ -1,0 +1,8 @@
+To test the needed developments in the emulator (TriggerMenuParser in particular). 
+This is the menu with simple 4 AD Trigger seeds.
+It has the following seeds:
+
+    L1_ADT_20000
+    L1_ADT_4000
+    L1_ADT_400
+    L1_ADT_80
